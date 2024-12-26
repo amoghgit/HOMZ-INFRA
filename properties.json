@@ -1,0 +1,50 @@
+[
+  {
+      "title": "Greenland Residency",
+      "address": "123 M.G. Road, Bangalore",
+      "price": 30000,
+      "type": "Apartment",
+      "status": "For Rent",
+      "image_url": "https://i.ibb.co/q0r5h8L/interior-1.jpg"
+  },
+  {
+      "title": "Blue Sky Towers",
+      "address": "456 Jayanagar, Bangalore",
+      "price": 7500000,
+      "type": "Penthouse",
+      "status": "For Sale",
+      "image_url": "https://i.ibb.co/FDcFwX6/interior-2.webp"
+  },
+  {
+      "title": "Sunset Villas",
+      "address": "789 Whitefield, Bangalore",
+      "price": 50000,
+      "type": "Villa",
+      "status": "For Rent",
+      "image_url": "https://i.ibb.co/BfBRP8p/villa.webp"
+  },
+  {
+      "title": "Royal Palace",
+      "address": "901 Koramangala, Bangalore",
+      "price": 12000000,
+      "type": "Bungalow",
+      "status": "For Sale",
+      "image_url": "https://i.ibb.co/cXBw2PS/image4.jpg"
+  },
+  {
+      "title": "Sunshine Homes",
+      "address": "321 Electronic City, Bangalore",
+      "price": 45000,
+      "type": "Duplex",
+      "status": "For Rent",
+      "image_url": "https://i.ibb.co/4d4N9vx/image5.jpg"
+  },
+  {
+      "title": "Biz Park pvt ltd",
+      "address": "654 HSR Layout, Bangalore",
+      "price": 90000,
+      "type": "Office",
+      "status": "For Rent",
+      "image_url": "https://i.ibb.co/0KwkVz5/image6.jpg"
+  }
+]
